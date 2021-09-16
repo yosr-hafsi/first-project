@@ -1,0 +1,17 @@
+li {
+  display: inline;
+}
+p {
+  font-family: roboto;
+}
+body {
+  background-color: aquamarine;
+}
+h3 {
+  color: bisque;
+}
+#contact {
+  display: grid;
+  grid-template-columns: 100px 200px 300px;
+  grid-template-rows: 100px 200px 300px;
+}
